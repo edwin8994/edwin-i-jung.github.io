@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Edwin Ino Jung – Materials Scientist</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+    }
+    header {
+      background: #fff;
+      padding: 2rem;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    header img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    nav a {
+      margin: 0 .5rem;
+      color: #0077cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    h2 {
+      margin-top: 0;
+      color: #005fa3;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="your-photo.jpg" alt="Edwin Ino Jung" />
+    <h1>Edwin Ino Jung</h1>
+    <nav>
+      <a href="https://scholar.google.com/citations?hl=ko&user=uWbe7pgAAAAJ">Google Scholar</a>
+      <!-- <a href="YOUR_COVER_LETTER_LINK">Cover Letter</a> -->
+      <!-- <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> -->
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I hold a M.S. in Materials Science and Engineering from KAIST (SNML), under Prof. Sang Ouk Kim, and a B.S. in Materials Science and Engineering from Korea University (2020).
+      I served as a Research Officer‑in‑Charge at Ewha Womans University Cooperation Foundation for 3 years (Apr 2022–Apr 2025). I hold dual nationality (USA & South Korea) and have completed my South Korean military service.
+    </p>
+    <p>
+      My research centers on block copolymer self‑assembly for applications in sensors, batteries, and anti‑counterfeiting labels. I have hands‑on experience with photolithography, plasma etching, metal deposition, and directed self‑assembly using graphoepitaxy.
+    </p>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>M.S., Materials Science & Engineering</strong>, KAIST (SNML), Feb 2022</li>
+      <li><strong>B.S., Materials Science & Engineering</strong>, Korea University, Feb 2020</li>
+    </ul>
+  </section>
+
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <ul>
+      <li><strong>Research Officer‑in‑Charge</strong>, Ewha Womans University Cooperation Foundation, Apr 2022 – Apr 2025</li>
+    </ul>
+  </section>
+
+  <section id="publications">
+    <h2>Selected Publications</h2>
+    <ul>
+      <li>
+        <em>2022, Applied Materials</em>: “A 2D ultrathin nanopatterned interlayer to suppress lithium dendrite growth in
+        high‑energy lithium‑metal anodes” – Han K. H., Seok J. Y., Kim I. H., … Jung E. I., Kim S. O.
+      </li>
+      <li>
+        <em>2022, ACS Nano</em>: “Block copolymer nanopatterning for nonsemiconductor device applications” – Yang G. G.,
+        Choi H. J., Han K. H., … Jung E. I., Kim S. O.
+      </li>
+      <li>
+        <em>2024, Materials Sci Eng: R: Reports</em>: “Recent progress on chiral perovskites as chiroptical active layers
+        for next‑generation LEDs” – Jung E. I., Lee H. J., Kim J., … Park C., Kim D.
+      </li>
+      <li><em>2025, Small (Under Review)</em>: “Multi‑Channel Anti‑Counterfeiting Labels via Guided Chiral Au Nanoparticles…” – Jung E. I. et al.</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 Edwin Ino Jung. All rights reserved.
+  </footer>
+</body>
+</html>
